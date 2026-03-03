@@ -1,49 +1,23 @@
 class Solution:
    
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
-        '''
-        Given:
-            s: given string
-            shifts[[int]] = [[start, end, directions]]
-
-        for every shfit in shifts
-            if directions = 1, shift all characters forward -> start to the end 
-            if directions = 0, shfit all characters backward-> start to the end 
-
-        goal: string after all shifts has been applied on 
-
-        approch:
-        s = "a b c", shifts = [[0,1,0],[1,2,1],[0,2,1]]
-    1st ->   l r    => zac
-             z a c
-    2nd ->     l r  => zbd
-             z b d
-    3rd ->   l   r => ace
-
-        answer = 'ace'
-
-        constratin: 10^4 = n
-                    n * n => O(n^2)
-        '''
-
-        prefix_sum = [0] * (len(s) + 1)
-
-        # mark the queries 
-        for l, r, d in shifts:
-            if d == 0: # backward shift
-                prefix_sum[l] -= 1 # marking the start
-                prefix_sum[r + 1] += 1 # marking the end
-            else: # forward shift
-                prefix_sum[l] += 1
-                prefix_sum[r + 1] -= 1
-
-        accumlate = 0
-        answer = ""
-        for i, char in enumerate(s):
-            char_ord = ord(char) - ord('a')  # 0-25
-            accumlate += prefix_sum[i]
-            char_ord += accumlate # 25 + 5 = 30 
-            answer += chr(char_ord % 26 + ord("a"))
-
-        return answer
         
+        diff = [0] * (len(s) + 1)
+        for l , r , k in shifts:
+            if k :
+                diff[l] += 1
+                diff[r + 1] -= 1
+            else:
+                diff[l ] -= 1
+                diff[r + 1] += 1
+
+        prefix = [diff[0]]
+        for i in range(1,len(s)):
+            prefix.append(prefix[i -1] + diff[i])
+        
+        res = ""
+        for i , ch in enumerate(s):
+            asc = ord(ch) % 97 + prefix[i] % 26
+            res += chr(asc%26 + 97)
+        return res
+            
