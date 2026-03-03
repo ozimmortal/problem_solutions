@@ -16,9 +16,11 @@ class Solution:
         suffix = suffix[::-1]
         print(prefix,suffix)
         result = [0] * n
+
         # for the first and last element
         result[0] = suffix[1]
         result[-1] = prefix[-2]
+        
         #  for the middle element
 
         for i in range(1,n-1):
