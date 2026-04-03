@@ -1,23 +1,21 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         
-        def search(arr , i):
-            left = 0
-            right = len(arr) -1
+        n , m = len(matrix) , len(matrix[0])
 
-            while left <= right:
-                mid = (left + right) // 2
-                print(left , right , mid)
-                if matrix[i][mid] == target:
-                    return True
-                elif matrix[i][mid] > target:
-                    right = mid - 1
-                else:
-                    left = mid + 1
+        left , right = 0 , n * m - 1
 
-            return False
+        while left <= right:
 
-        for i ,row in enumerate(matrix) :
-            if search(row,i):
+            mid = (left + right) // 2
+
+            num = matrix[mid//m][mid%m]
+
+            if num == target:
                 return True
+            
+            if num > target:
+                right = mid - 1
+            else:
+                left = mid + 1
         return False
