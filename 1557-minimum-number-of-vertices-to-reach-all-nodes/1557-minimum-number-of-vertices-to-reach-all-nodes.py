@@ -1,25 +1,8 @@
 class Solution:
     def findSmallestSetOfVertices(self, n: int, edges: List[List[int]]) -> List[int]:
 
-        seen = set()
-        graph = defaultdict(list)
-        for f , t in edges:
-            graph[f].append(t)
-
-        def dfs(node):
-
-            for n in graph[node]:
-
-                if n not in seen:
-                    seen.add(n)
-                    dfs(n)
+        indegree = [0] * n
+        for _ , y in edges:
+            indegree[y] += 1
         
-        res = []
-        for i in range(n):
-            dfs(i)
-        
-        for i in range(n):
-            if i not in seen:
-                res.append(i)
-        
-        return res
+        return [node for node in range(n) if indegree[node] == 0 ]
