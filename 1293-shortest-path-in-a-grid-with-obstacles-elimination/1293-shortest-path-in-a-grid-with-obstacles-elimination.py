@@ -27,7 +27,7 @@ class Solution:
 
                     if grid[nx][ny] == 1 and v > 0:
                         queue.append((nx , ny , s + 1 , v - 1))
-                        seen.add((nx ,ny , v))
+                        seen.add((nx ,ny , v - 1))
                         continue
 
                     
