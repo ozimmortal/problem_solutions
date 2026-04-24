@@ -11,12 +11,14 @@ class Solution:
         def dfs(node):
             nonlocal d
 
-            if not node: return -1
+            if not node: return 0
 
             left = dfs(node.left)
             right = dfs(node.right)
 
-            d = max(d, left + right + 2)
+            
+            d = max(d, left + right )
+            print(left,right, d)
         
             return max(left , right) + 1
         dfs(root)
