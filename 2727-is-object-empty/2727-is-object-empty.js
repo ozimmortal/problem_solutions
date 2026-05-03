@@ -3,9 +3,8 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-    let items = 0;
     for(let _ in obj){
-        items++;
+        return false
     }
-    return items === 0
+    return true
 };
