@@ -3,6 +3,8 @@
  * @return {boolean}
  */
 var increasingTriplet = function(nums) {
+
+    if (nums.length < 3) return false
     
     let first = Infinity , second = Infinity;
 
