@@ -21,11 +21,11 @@ var compress = function(chars) {
             l = r + 1
         }
     }
-    let n = chars.length
-    for(let i=c; i<n; i++){
-        chars.pop()
-    }
-    return chars.length
+    // let n = chars.length
+    // for(let i=c; i<n; i++){
+    //     chars.pop()
+    // }
+    return c
 
 
     
