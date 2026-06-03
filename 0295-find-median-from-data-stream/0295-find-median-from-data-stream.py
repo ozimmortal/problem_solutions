@@ -6,13 +6,13 @@ class MedianFinder:
     def addNum(self, num: int) -> None:
         heapq.heappush(self.smallHeap , -num)
         
-        if self.smallHeap and self.largeHeap and -self.smallHeap[0] > self.largeHeap[0]:
+        if len(self.smallHeap)  - 1 > len(self.largeHeap) or self.smallHeap and self.largeHeap and -self.smallHeap[0] > self.largeHeap[0]:
             val = - heapq.heappop(self.smallHeap)
             heapq.heappush(self.largeHeap , val)
 
-        if len(self.smallHeap)  - 1 > len(self.largeHeap):
-            val = - heapq.heappop(self.smallHeap)
-            heapq.heappush(self.largeHeap , val)
+        # if len(self.smallHeap)  - 1 > len(self.largeHeap):
+        #     val = - heapq.heappop(self.smallHeap)
+        #     heapq.heappush(self.largeHeap , val)
 
         if  len(self.largeHeap) -1 > len(self.smallHeap):
             val = heapq.heappop(self.largeHeap)
