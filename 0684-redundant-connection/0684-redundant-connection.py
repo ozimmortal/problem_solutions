@@ -25,8 +25,8 @@ class Solution:
         uf  = UF(n + 1)
 
         for x , y in edges:
-            if uf.find(x) != uf.find(y):
-                uf.union(x ,y)
-            else:
+            if uf.find(x) == uf.find(y):
                 return [x ,y]
+            uf.union(x ,y)
+                
         
