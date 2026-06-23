@@ -12,7 +12,5 @@ class Solution:
             if ratings[i] > ratings[i + 1] and c[i] <= c[i + 1]:
                 c[i] = c[i + 1] + 1
                 
-        
-        print(c)
         return sum(c)
 
