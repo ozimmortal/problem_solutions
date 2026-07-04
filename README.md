@@ -61,6 +61,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -70,4 +71,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
