@@ -38,6 +38,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/ozimmortal/problem_solutions/tree/main/0038-count-and-say/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
