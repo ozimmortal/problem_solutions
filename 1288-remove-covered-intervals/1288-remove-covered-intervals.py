@@ -13,7 +13,5 @@ class Solution:
                     ans -= 1
                     break
             
-
-        print(intervals)
         return ans
                  
