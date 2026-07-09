@@ -11,6 +11,7 @@
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +103,12 @@
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ozimmortal/problem_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
