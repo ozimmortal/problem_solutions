@@ -15,6 +15,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ozimmortal/problem_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ozimmortal/problem_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +145,9 @@
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ozimmortal/problem_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
