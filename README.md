@@ -13,6 +13,7 @@
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -29,6 +30,7 @@
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
