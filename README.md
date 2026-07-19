@@ -15,6 +15,7 @@
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -123,6 +124,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,8 +197,10 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 <!---LeetCode Topics End-->
