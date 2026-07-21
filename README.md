@@ -69,6 +69,7 @@
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Binary Search
@@ -171,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ozimmortal/problem_solutions/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
