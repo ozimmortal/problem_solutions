@@ -146,6 +146,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ozimmortal/problem_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0263-ugly-number](https://github.com/ozimmortal/problem_solutions/tree/main/0263-ugly-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/ozimmortal/problem_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
