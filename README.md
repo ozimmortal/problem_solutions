@@ -11,6 +11,7 @@
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ozimmortal/problem_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -150,6 +152,7 @@
 | [0009-palindrome-number](https://github.com/ozimmortal/problem_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/ozimmortal/problem_solutions/tree/main/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/ozimmortal/problem_solutions/tree/main/0263-ugly-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/ozimmortal/problem_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
