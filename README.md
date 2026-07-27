@@ -24,6 +24,7 @@
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -198,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ozimmortal/problem_solutions/tree/main/1291-sequential-digits/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Number Theory
@@ -253,6 +255,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ozimmortal/problem_solutions/tree/main/0067-add-binary/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 <!---LeetCode Topics End-->
