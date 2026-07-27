@@ -13,6 +13,7 @@
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ozimmortal/problem_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -216,6 +217,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
