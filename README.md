@@ -19,6 +19,7 @@
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ozimmortal/problem_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -260,4 +261,8 @@
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ozimmortal/problem_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 <!---LeetCode Topics End-->
