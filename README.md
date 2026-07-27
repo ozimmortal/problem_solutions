@@ -88,6 +88,7 @@
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -172,6 +173,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ozimmortal/problem_solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -228,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
