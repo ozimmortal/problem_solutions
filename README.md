@@ -29,6 +29,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -93,6 +94,7 @@
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ozimmortal/problem_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -181,6 +183,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ozimmortal/problem_solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
