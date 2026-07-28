@@ -26,6 +26,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -64,6 +65,7 @@
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+| [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
