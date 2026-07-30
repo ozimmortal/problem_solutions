@@ -24,9 +24,9 @@ class Solution:
                 val = str(i)
                 if val not in r[x] and val not in c[y] and val not in b[(x//3,y//3)]:
                     board[x][y] = val
-                    _ = r[x].add(val) , c[y].add(val), b[(x//3,y//3)].add(val)
+                    r[x].add(val) , c[y].add(val), b[(x//3,y//3)].add(val)
                     if bt(s + 1): return True
-                    _ = r[x].remove(val) , c[y].remove(val), b[(x//3,y//3)].remove(val)
+                    r[x].remove(val) , c[y].remove(val), b[(x//3,y//3)].remove(val)
                     board[x][y] = "."
 
             return False
