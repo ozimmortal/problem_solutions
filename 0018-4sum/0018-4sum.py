@@ -18,8 +18,7 @@ class Solution:
                         if arr not in ans:
                             ans.append(arr)
                         l += 1
-                        while nums[l] == nums[l - 1] and l < r:
-                            l += 1
+                        
                 
 
         
