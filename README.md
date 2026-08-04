@@ -52,6 +52,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -162,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ozimmortal/problem_solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -194,10 +196,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +359,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
