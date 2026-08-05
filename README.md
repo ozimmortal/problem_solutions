@@ -20,6 +20,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ozimmortal/problem_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -113,6 +114,7 @@
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -137,6 +139,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -166,6 +169,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ozimmortal/problem_solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ozimmortal/problem_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
