@@ -58,6 +58,7 @@
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 ## Sorting
@@ -120,6 +121,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ozimmortal/problem_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ozimmortal/problem_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -284,6 +286,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
@@ -314,6 +317,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
