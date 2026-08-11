@@ -38,6 +38,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -76,6 +77,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ozimmortal/problem_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -158,6 +160,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
