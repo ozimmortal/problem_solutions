@@ -3,12 +3,12 @@ class Solution:
         if numRows == 1: return s
 
         l = len(s)
-        res = ""
+        res = []
         for r in range(numRows):
             incr = (numRows - 1) * 2
             for i in range(r , l, incr):
-                res += s[i]
+                res.append(s[i])
                 if 0 < r < numRows - 1 and i + incr - 2 * r < l:
-                    res += s[i + incr - 2 * r]
+                    res.append(s[i + incr - 2 * r])
         
-        return res
+        return "".join(res)
