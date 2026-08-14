@@ -60,6 +60,7 @@
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -186,6 +187,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ozimmortal/problem_solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ozimmortal/problem_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -219,11 +221,13 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +404,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
