@@ -205,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +302,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
