@@ -58,6 +58,7 @@
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0338-counting-bits](https://github.com/ozimmortal/problem_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -359,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ozimmortal/problem_solutions/tree/main/0067-add-binary/) | Easy |
+| [0338-counting-bits](https://github.com/ozimmortal/problem_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
