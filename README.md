@@ -47,6 +47,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ozimmortal/problem_solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/ozimmortal/problem_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -364,6 +365,7 @@
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ozimmortal/problem_solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
