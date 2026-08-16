@@ -363,6 +363,7 @@
 | [0338-counting-bits](https://github.com/ozimmortal/problem_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ozimmortal/problem_solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
