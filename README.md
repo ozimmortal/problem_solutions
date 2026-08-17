@@ -43,6 +43,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -135,6 +136,7 @@
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ozimmortal/problem_solutions/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ozimmortal/problem_solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -159,6 +161,7 @@
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +434,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
