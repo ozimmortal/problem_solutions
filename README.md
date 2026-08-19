@@ -29,6 +29,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/ozimmortal/problem_solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ozimmortal/problem_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -173,6 +174,7 @@
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -352,6 +354,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
@@ -379,6 +382,7 @@
 | [0461-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ozimmortal/problem_solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
