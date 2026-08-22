@@ -278,6 +278,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ozimmortal/problem_solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ozimmortal/problem_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ozimmortal/problem_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
