@@ -138,6 +138,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
@@ -265,6 +266,7 @@
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
+| [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -361,6 +363,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+| [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -420,6 +423,7 @@
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
