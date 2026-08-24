@@ -36,6 +36,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ozimmortal/problem_solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
@@ -74,6 +75,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ozimmortal/problem_solutions/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -121,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/ozimmortal/problem_solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -266,6 +269,7 @@
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -423,6 +427,7 @@
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -430,12 +435,14 @@
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
