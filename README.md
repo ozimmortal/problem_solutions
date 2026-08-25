@@ -58,6 +58,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ozimmortal/problem_solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ozimmortal/problem_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ozimmortal/problem_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ozimmortal/problem_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -194,6 +195,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ozimmortal/problem_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ozimmortal/problem_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ozimmortal/problem_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Design
 | Problem Name | Difficulty |
