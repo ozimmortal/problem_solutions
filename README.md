@@ -146,6 +146,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ozimmortal/problem_solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -408,6 +409,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/ozimmortal/problem_solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ozimmortal/problem_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ozimmortal/problem_solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ozimmortal/problem_solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
