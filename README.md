@@ -45,6 +45,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/ozimmortal/problem_solutions/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ozimmortal/problem_solutions/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ozimmortal/problem_solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ozimmortal/problem_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ozimmortal/problem_solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -95,6 +96,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ozimmortal/problem_solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ozimmortal/problem_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -302,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ozimmortal/problem_solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ozimmortal/problem_solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
