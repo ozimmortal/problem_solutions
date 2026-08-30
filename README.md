@@ -39,6 +39,7 @@
 | [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ozimmortal/problem_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ozimmortal/problem_solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -382,6 +383,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/ozimmortal/problem_solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1927-sum-game](https://github.com/ozimmortal/problem_solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ozimmortal/problem_solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ozimmortal/problem_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
