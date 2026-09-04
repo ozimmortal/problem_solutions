@@ -247,6 +247,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ozimmortal/problem_solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -262,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -269,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -408,6 +411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -508,4 +512,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
