@@ -83,6 +83,7 @@
 | [0338-counting-bits](https://github.com/ozimmortal/problem_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/ozimmortal/problem_solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -154,6 +155,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ozimmortal/problem_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
