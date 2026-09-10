@@ -237,6 +237,7 @@
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ozimmortal/problem_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ozimmortal/problem_solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ozimmortal/problem_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Backtracking
@@ -278,6 +279,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ozimmortal/problem_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ozimmortal/problem_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +289,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ozimmortal/problem_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ozimmortal/problem_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ozimmortal/problem_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
