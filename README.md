@@ -57,6 +57,7 @@
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ozimmortal/problem_solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ozimmortal/problem_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -93,6 +94,7 @@
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ozimmortal/problem_solutions/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ozimmortal/problem_solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ozimmortal/problem_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ozimmortal/problem_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/ozimmortal/problem_solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -187,6 +190,7 @@
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ozimmortal/problem_solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ozimmortal/problem_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
