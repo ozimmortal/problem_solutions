@@ -1,20 +1,17 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        k  =  0
         n = len(nums)
-        needs_swap = False
-        l , r = 0 , 1
-        while l < r < n :
-            if nums[l] == nums[r] and r - l + 1 > 2:
-                needs_swap = True
-                k += 1
-            elif nums[l] != nums[r]  and not needs_swap:
+        l, r = 0, 0
+        while  r < n:
+            cnt = 1
+            while r + 1 < n and nums[r] == nums[r + 1]:
+                cnt += 1
+                r += 1
+            
+            for i in range(min(2 , cnt)):
+                nums[l] = nums[r]
                 l += 1
-
-            if needs_swap and nums[l] != nums[r]:
-                nums[l + 2] = nums[r]
-                l += 1
-
             r += 1
-        return n - k
+        return l
         
+                
