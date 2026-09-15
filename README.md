@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
@@ -158,6 +160,7 @@
 | [0006-zigzag-conversion](https://github.com/ozimmortal/problem_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/ozimmortal/problem_solutions/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/ozimmortal/problem_solutions/tree/main/0067-add-binary/) | Easy |
 | [0115-distinct-subsequences](https://github.com/ozimmortal/problem_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -210,6 +213,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
