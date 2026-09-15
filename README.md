@@ -14,6 +14,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
+| [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -311,6 +312,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ozimmortal/problem_solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/ozimmortal/problem_solutions/tree/main/0067-add-binary/) | Easy |
+| [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/ozimmortal/problem_solutions/tree/main/0263-ugly-number/) | Easy |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -399,6 +401,7 @@
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
