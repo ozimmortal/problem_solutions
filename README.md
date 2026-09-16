@@ -169,6 +169,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ozimmortal/problem_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ozimmortal/problem_solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/ozimmortal/problem_solutions/tree/main/0038-count-and-say/) | Medium |
@@ -225,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ozimmortal/problem_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
@@ -501,6 +503,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ozimmortal/problem_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ozimmortal/problem_solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ozimmortal/problem_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ozimmortal/problem_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
