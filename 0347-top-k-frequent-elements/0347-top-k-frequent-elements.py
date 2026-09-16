@@ -1,12 +1,13 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         
-        counts = Counter(nums)
         heap = []
-        for key , freq  in counts.items():
-            heapq.heappush(heap , (freq , key))
+        freq = Counter(nums)
 
-            if len(heap) > k:
+        for num , cnt in freq.items():
+            heapq.heappush(heap, (cnt , num))
+
+            while len(heap) > k:
                 heapq.heappop(heap)
-        
-        return [pair[1] for pair in heap]
+            
+        return [num for _ , num in heap]
