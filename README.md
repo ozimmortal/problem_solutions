@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
@@ -111,6 +112,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -410,6 +412,7 @@
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ozimmortal/problem_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
