@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/ozimmortal/problem_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
@@ -415,6 +416,7 @@
 | [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ozimmortal/problem_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ozimmortal/problem_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ozimmortal/problem_solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
