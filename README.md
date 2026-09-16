@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/ozimmortal/problem_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -117,6 +118,7 @@
 | [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
@@ -139,6 +141,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -232,6 +235,7 @@
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -438,6 +442,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1819-number-of-different-subsequences-gcds](https://github.com/ozimmortal/problem_solutions/tree/main/1819-number-of-different-subsequences-gcds/) | Hard |
 | [2029-stone-game-ix](https://github.com/ozimmortal/problem_solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -476,6 +481,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,4 +593,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
