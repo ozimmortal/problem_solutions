@@ -1,30 +1,19 @@
-from collections import defaultdict
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        left , ans = 0 ,0
-        c = set()
-        # for right in range(len(s)):
-        #     c[s[right]] += 1
-        #     while sum(c.values()) > len(c.keys()):
-        #         c[s[left]] -= 1
-        #         if c[s[left]] == 0:
-        #             del c[s[left]]
-        #         left += 1
-            
-        #     ans = max(ans , right -left + 1)
-        # return ans
+        
+        freq = defaultdict(int)
+        l, ans = 0 , 0
+        for r in range(len(s)):
+            freq[s[r]] += 1
 
-        for r , ch in enumerate(s):
-
-            while ch  in  c:
-                c.remove(s[left])
-                left += 1
-            c.add(ch)
-            ans = max(ans,r-left + 1)
-
+            while len(freq) != r - l + 1:
+                freq[s[l]] -= 1
+                if freq[s[l]] == 0:
+                    del freq[s[l]]
+                l += 1
+            ans = max(ans , r - l + 1)
+        
         return ans
-
 
 
 
