@@ -16,6 +16,7 @@
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
 | [0189-rotate-array](https://github.com/ozimmortal/problem_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
@@ -108,6 +109,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
@@ -218,6 +220,7 @@
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
