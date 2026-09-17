@@ -28,6 +28,7 @@
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ozimmortal/problem_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0835-image-overlap](https://github.com/ozimmortal/problem_solutions/tree/main/0835-image-overlap/) | Medium |
@@ -162,6 +163,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ozimmortal/problem_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ozimmortal/problem_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ozimmortal/problem_solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -242,6 +244,7 @@
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ozimmortal/problem_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ozimmortal/problem_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
