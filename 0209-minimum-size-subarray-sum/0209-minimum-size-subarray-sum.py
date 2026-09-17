@@ -8,14 +8,10 @@ class Solution:
             curr += nums[r]
 
             while curr >= target:
-                if curr >= target:
-                    res = min(res, r - l + 1)
-                
+                res = min(res, r - l + 1)
                 curr -= nums[l]
                 l += 1
-
-                
-        
+ 
         return 0 if res == inf else res
 
         
