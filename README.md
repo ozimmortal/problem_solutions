@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/ozimmortal/problem_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/ozimmortal/problem_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/ozimmortal/problem_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ozimmortal/problem_solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/ozimmortal/problem_solutions/tree/main/0120-triangle/) | Medium |
@@ -495,6 +497,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ozimmortal/problem_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ozimmortal/problem_solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
