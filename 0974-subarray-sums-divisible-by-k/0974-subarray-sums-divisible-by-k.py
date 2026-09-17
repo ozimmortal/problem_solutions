@@ -1,11 +1,13 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        counter  = defaultdict(int)
-        counter[0] = 1
-        c = a = 0
+        
+        cnt, curr = defaultdict(int), 0
+        cnt[0] = 1
+        res = 0
 
-        for n in nums:
-            c += n
-            a += counter[c%k]
-            counter[c % k] +=1
-        return a
+        for num in nums:
+            curr += num
+            res += cnt[curr % k]
+            cnt[curr % k] += 1
+        
+        return res
