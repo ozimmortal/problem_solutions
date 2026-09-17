@@ -1,13 +1,13 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
 
-        @cache
-        def dp(i):
-            if i == len(nums) - 1:
-                return nums[i]
-            return max(nums[i] , nums[i] + dp(i + 1))
+        curr_max , gb_max = 0 , -inf
+        for num in nums:
+            curr_max = max(num , curr_max + num)
+            gb_max = max(gb_max, curr_max)
         
-        return max(dp(i) for i in range(len(nums)))
+        return gb_max
+
 
 
        
