@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/ozimmortal/problem_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
@@ -441,6 +442,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ozimmortal/problem_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/ozimmortal/problem_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -484,6 +486,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ozimmortal/problem_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
