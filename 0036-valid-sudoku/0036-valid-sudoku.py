@@ -1,43 +1,37 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-
-        n = 9
-        # check row
-        for r in range(n):
-            seen = set()
-            for val in board[r]:
-                if val in seen:
-                    print("R" , val)
-                    return False
-                if val != ".":
-                    seen.add(val)
-
-        # check column
-        for c in range(n):
-            seen = set()
-            r=0
-            while r < n:
-                val = board[r][c]
-                if val in seen:
-                    print("C")
-                    return False
-                if val != ".":
-                    seen.add(val)
-                r += 1
         
-        # check box
-        seen = defaultdict(set)
-        for r in range(n):
-            for c in range(n):
-                val = board[r][c]
-                if val == ".":
-                    continue
-                nr , nc = r//3 , c//3
-                if val in seen[(nr , nc)]:
-                    print("B")
+        N = 9
+        for x in range(N):
+            seen = set()
+            for r in range(N):
+                num = board[r][x]
+                if num in seen:
                     return False
-                seen[(nr , nc)].add(val)
+                if num != ".":
+                    seen.add(num)
+            
+            seen = set()
+            for c in range(N):
+                num = board[x][c]
+                if num in seen:
+                    return False
+                if num != ".":
+                    seen.add(num)
+
+        seen = defaultdict(set)
+        for r in range(N):
+            for c in range(N):
+                num = board[r][c]
+                nr , nc = r // 3, c//3
+                if num in seen[(nr , nc)]:
+                    return False
+
+                if num != ".":
+                    seen[(nr, nc)].add(num)
+
         return True
+                
 
         
 
