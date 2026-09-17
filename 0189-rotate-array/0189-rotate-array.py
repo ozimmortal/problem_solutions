@@ -3,40 +3,22 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+
+        def reverseArr(i , j):
+            while i < j:
+                nums[i] , nums[j] = nums[j] , nums[i]
+                i += 1
+                j -= 1
+            
         n = len(nums)
-        print(n)
-        if n == 1:
-            return 
-        
-      
-        # reverse 
-        s , e = 0 , n - 1
+        rot = k % n
+        if rot == 0: return 
 
-        while s < e:
-            nums[s] , nums[e] = nums[e] , nums[s]
+        reverseArr(0 , n- 1)
+        reverseArr(rot , n - 1)
+        reverseArr(0 , rot - 1)
 
-            s += 1
-            e -= 1
-
-        # reverse  >= k
-
-        s , e = (k % n) , n - 1 
-
-        while s < e:
-            nums[s] , nums[e] = nums[e] , nums[s]
-
-            s += 1
-            e -= 1
-        
-        # reverse <k
-
-        s , e = 0 , (k % n) -1
-
-        while s < e:
-            nums[s] , nums[e] = nums[e] , nums[s]
-
-            s += 1
-            e -= 1
+       
         
         
 
