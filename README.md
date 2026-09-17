@@ -33,6 +33,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ozimmortal/problem_solutions/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0835-image-overlap](https://github.com/ozimmortal/problem_solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ozimmortal/problem_solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ozimmortal/problem_solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -164,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ozimmortal/problem_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ozimmortal/problem_solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ozimmortal/problem_solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -246,6 +248,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ozimmortal/problem_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ozimmortal/problem_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ozimmortal/problem_solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ozimmortal/problem_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ozimmortal/problem_solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
