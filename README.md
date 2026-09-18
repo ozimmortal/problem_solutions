@@ -33,6 +33,7 @@
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -111,6 +112,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ozimmortal/problem_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/ozimmortal/problem_solutions/tree/main/0338-counting-bits/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ozimmortal/problem_solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -136,6 +138,7 @@
 | [0169-majority-element](https://github.com/ozimmortal/problem_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -502,6 +505,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ozimmortal/problem_solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
