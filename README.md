@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ozimmortal/problem_solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0477-total-hamming-distance](https://github.com/ozimmortal/problem_solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/ozimmortal/problem_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -140,6 +141,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ozimmortal/problem_solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ozimmortal/problem_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
@@ -506,6 +508,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ozimmortal/problem_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ozimmortal/problem_solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ozimmortal/problem_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ozimmortal/problem_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ozimmortal/problem_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
