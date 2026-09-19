@@ -36,6 +36,7 @@
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ozimmortal/problem_solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ozimmortal/problem_solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -145,6 +146,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ozimmortal/problem_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ozimmortal/problem_solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ozimmortal/problem_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ozimmortal/problem_solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -173,6 +175,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ozimmortal/problem_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ozimmortal/problem_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ozimmortal/problem_solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0743-network-delay-time](https://github.com/ozimmortal/problem_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1094-car-pooling](https://github.com/ozimmortal/problem_solutions/tree/main/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ozimmortal/problem_solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -250,6 +253,7 @@
 | [0035-search-insert-position](https://github.com/ozimmortal/problem_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ozimmortal/problem_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ozimmortal/problem_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ozimmortal/problem_solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/ozimmortal/problem_solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/ozimmortal/problem_solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ozimmortal/problem_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -341,6 +345,7 @@
 | [0037-sudoku-solver](https://github.com/ozimmortal/problem_solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0212-word-search-ii](https://github.com/ozimmortal/problem_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/ozimmortal/problem_solutions/tree/main/0289-game-of-life/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ozimmortal/problem_solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/ozimmortal/problem_solutions/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ozimmortal/problem_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/ozimmortal/problem_solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
