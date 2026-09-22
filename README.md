@@ -100,6 +100,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ozimmortal/problem_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/ozimmortal/problem_solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ozimmortal/problem_solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ozimmortal/problem_solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -439,6 +440,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/ozimmortal/problem_solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ozimmortal/problem_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ozimmortal/problem_solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ozimmortal/problem_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -578,6 +580,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ozimmortal/problem_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/ozimmortal/problem_solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
