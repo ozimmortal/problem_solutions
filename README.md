@@ -83,6 +83,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ozimmortal/problem_solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ozimmortal/problem_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/ozimmortal/problem_solutions/tree/main/2233-maximum-product-after-k-increments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ozimmortal/problem_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/ozimmortal/problem_solutions/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/ozimmortal/problem_solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ozimmortal/problem_solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -137,6 +138,7 @@
 | [1510-stone-game-iv](https://github.com/ozimmortal/problem_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ozimmortal/problem_solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/ozimmortal/problem_solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ozimmortal/problem_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/ozimmortal/problem_solutions/tree/main/2771-longest-non-decreasing-subarray-from-two-arrays/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ozimmortal/problem_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ozimmortal/problem_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -373,6 +375,7 @@
 | [0835-image-overlap](https://github.com/ozimmortal/problem_solutions/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ozimmortal/problem_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/ozimmortal/problem_solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ozimmortal/problem_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ozimmortal/problem_solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ozimmortal/problem_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
@@ -726,4 +729,5 @@
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ozimmortal/problem_solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ozimmortal/problem_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
